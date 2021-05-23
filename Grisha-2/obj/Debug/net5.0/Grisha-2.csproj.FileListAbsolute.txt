@@ -1,0 +1,16 @@
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\bin\Debug\net5.0\Grisha-2.exe
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\bin\Debug\net5.0\Grisha-2.deps.json
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\bin\Debug\net5.0\Grisha-2.runtimeconfig.json
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\bin\Debug\net5.0\Grisha-2.runtimeconfig.dev.json
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\bin\Debug\net5.0\Grisha-2.dll
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\bin\Debug\net5.0\ref\Grisha-2.dll
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\bin\Debug\net5.0\Grisha-2.pdb
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\obj\Debug\net5.0\Grisha-2.csprojAssemblyReference.cache
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\obj\Debug\net5.0\Grisha-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\obj\Debug\net5.0\Grisha-2.AssemblyInfoInputs.cache
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\obj\Debug\net5.0\Grisha-2.AssemblyInfo.cs
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\obj\Debug\net5.0\Grisha-2.csproj.CoreCompileInputs.cache
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\obj\Debug\net5.0\Grisha-2.dll
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\obj\Debug\net5.0\ref\Grisha-2.dll
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\obj\Debug\net5.0\Grisha-2.pdb
+C:\Users\M4MIND\source\repos\Grisha-2\Grisha-2\obj\Debug\net5.0\Grisha-2.genruntimeconfig.cache
